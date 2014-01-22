@@ -10,6 +10,8 @@ User stories for my hot deal site.
 
 # Domain Model
 
+https://docs.google.com/spreadsheet/ccc?key=0AkckpfdkZIrOdFNiOGxiSklsMHNidFdhc095a2V3eWc&usp=sharing
+
 ## Products
 
 |ID|Title|SKU|Price|
